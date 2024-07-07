@@ -2,7 +2,7 @@
 
 This tool is designed to help users disable the realtime debugger feature in Visual Studio, addressing related issues.
 
-[![中文](https://img.shields.io/badge/language-中文-green.svg)](README.md)
+[![中文](https://img.shields.io/badge/language-中文-green.svg)](readme.md)
 
 ## Usage
 

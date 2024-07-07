@@ -2,7 +2,7 @@
 
 本工具用于帮助用户关闭 Visual Studio 的实时调试器功能，从而解决相关问题。
 
-[![English](https://img.shields.io/badge/language-English-blue.svg)](README_EN.md)
+[![English](https://img.shields.io/badge/language-English-blue.svg)](readme_EN.md)
 
 ## 使用方法
 
